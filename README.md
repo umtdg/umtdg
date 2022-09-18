@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am:
+* a 4th year Math student at Bilkent University,
+* currently working on 4G/5G Core Networks as Junior Software Engineer at Ulak Haberlesme A.Ş.
+* a (mostly) self-experienced developer
+
+
 <!--
 **umtdg/umtdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
