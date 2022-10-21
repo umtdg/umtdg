@@ -1,8 +1,1 @@
-### Hi there 👋
-
-I am:
-* a 4th year Math student at Bilkent University,
-* currently working on 4G/5G Core Networks as Junior Software Engineer at Ulak Haberlesme A.Ş.
-* a (mostly) self-experienced developer
-* an arch user:
-  * <img src="https://raw.githubusercontent.com/umtdg/umtdg/main/arch_btw.png" width=25% height=25% />
+![image](https://user-images.githubusercontent.com/24780136/197183531-03842b36-c3d0-4d14-afbe-662bace25acd.png)
